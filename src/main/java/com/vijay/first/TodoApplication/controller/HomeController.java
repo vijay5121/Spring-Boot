@@ -29,7 +29,7 @@ public class HomeController {
     public String getProfilepath(){
         return this.profilepath;
     }
-@RequestMapping("/config")
+@RequestMapping("/configrrr")
     public privateconfig getPrivateconfig(){
         System.out.println(this.privateconfig);
         return this.privateconfig;
